@@ -4,7 +4,8 @@ Tech Lead / Engineering Manager. 17 years in software: PHP developer → team le
 
 I build backends and run software development with AI coding agents as a managed process: spec, implementation, independent review, tests, CI, and metrics on what actually ships.
 
-- **Backend:** PHP (Laravel, Yii2), Go services, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, CI/CD
+- **Backend:** PHP (Laravel, Yii2), Python (FastAPI), Go services, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, CI/CD
+- **Frontend:** TypeScript, Vue 3, React (Next.js), Svelte; Flutter for mobile and desktop clients
 - **AI:** LLM integration, AI agents in production, speech (Whisper, TTS), MCP
 - **Leadership:** grew a team from 5 to 17, built QA from scratch, moved builds from 2–3 per quarter to 3–4 per week
 
